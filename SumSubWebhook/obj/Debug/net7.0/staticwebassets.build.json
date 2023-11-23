@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sDOuwEDlEAzsTE/lwkmeEXr3M6OeIrObCRLzp2Z3nZM=",
+  "Source": "SumSubWebhook",
+  "BasePath": "_content/SumSubWebhook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
